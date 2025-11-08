@@ -15,7 +15,7 @@ bun dev
 
 npm audit
 ```
-ky
+kyy
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
